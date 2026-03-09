@@ -36,6 +36,14 @@ Can we accurately predict `Task_Duration_Days` early enough to improve construct
   - `Start_Constraint`, `Dependency_Count`
   - `Risk_Level`, `Resource_Constraint_Score`, `Site_Constraint_Score`
 
+## Data Source
+The dataset used in this project is real-world construction data sourced from Kaggle.
+
+- Kaggle dataset: `Construction Project Management Dataset`
+- URL: https://www.kaggle.com/datasets/programmer3/construction-project-management-dataset?resource=download
+
+This project uses the dataset for educational and portfolio analysis purposes.
+
 ## Methodology
 ### Data Preparation
 - Removed missing rows with `dropna()`.
